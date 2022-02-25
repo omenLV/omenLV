@@ -4,9 +4,13 @@
 ## whoami? 🛑
 I'm cr0wl3y. That's all. I don't like giving personally identifiable information on the internet. 
 
-Ben cr0wl3y. Simdilik bu kadari yeter. Internette kisisel bilgi vermekten hoslanmam.
+## Interests 🎗 
+- 🔎 Vulnerability Research
+- 💿 Binary Exploitation, Reverse Engineering
+- 📟 Programming languages, such as C language, Python and Bash. 
+- 🖥 Computer network and Internet
+- 💾 I'm still learning these things, I haven't had a speciality.
 
-## Interests / Ilgi alanlari
-Cyber Security
-
-devami gelecek......
+## Contact
+- Discord: [cr0wl3y#7550](./)
+- [Mail](cr0wl3yy@protonmail.com)
