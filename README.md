@@ -7,6 +7,7 @@ I'm cr0wl3y. That's all. I don't like giving personally identifiable information
 ## Interests 🎗   
 - 🕵🏼‍♂️ Cyber Security 
 - ⌨ Programming languages, such as C language, Python etc.
+- 🥷🏻 Jane Margolis
 
 ## Contact
 - Discord: [cr0wl3y#7550](./)
