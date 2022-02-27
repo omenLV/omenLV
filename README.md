@@ -6,7 +6,6 @@ I'm cr0wl3y. That's all. I don't like giving personally identifiable information
 
 ## Interests 🎗   
 -🔎 Cyber Security
-
 -⚙️ Programming
 
 ## Contact
