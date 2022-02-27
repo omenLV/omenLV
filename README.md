@@ -4,8 +4,6 @@
 ## whoami? 🛑
 I'm cr0wl3y. That's all. I don't like giving personally identifiable information on the internet. 
 
-### Cyber Security & Programming
-
 ## Contact
 - Discord: [cr0wl3yy#7550](./)
 - Mail: [cr0wl3yy@protonmail.com](./)
