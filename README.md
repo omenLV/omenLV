@@ -8,7 +8,7 @@ I'm cr0wl3y. That's all. I don't like giving personally identifiable information
 - 🥷🏻 Jane Margolis
 
 ## Contact
-- Discord: [cr0wl3y#7550](./)
+- Discord: [cr0wl3yy#7550](./)
 - Mail: [cr0wl3yy@protonmail.com](./)
 - Tryhackme: [https://tryhackme.com/p/cr0wl3yy](./)
 - Twitter: [https://twitter.com/cr0wl3yy](./)
