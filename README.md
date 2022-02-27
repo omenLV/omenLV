@@ -11,3 +11,4 @@ I'm cr0wl3y. That's all. I don't like giving personally identifiable information
 - Discord: [cr0wl3y#7550](./)
 - Mail: [cr0wl3yy@protonmail.com](./)
 - Tryhackme: [https://tryhackme.com/p/cr0wl3yy](./)
+- Twitter: [https://twitter.com/cr0wl3yy](./)
