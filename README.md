@@ -4,9 +4,7 @@
 ## whoami? 🛑
 I'm cr0wl3y. That's all. I don't like giving personally identifiable information on the internet. 
 
-## Interests 🎗   
--🔎 Cyber Security
--⚙️ Programming
+## Cyber Security & Programming
 
 ## Contact
 - Discord: [cr0wl3yy#7550](./)
