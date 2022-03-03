@@ -2,7 +2,7 @@
 
 
 ## whoami?
-I'm cr0wl3y. I'm interested in System Exploitation and Reverse Engineering (still learning). That's all. 
+I'm cr0wl3y. That's all. 
 
 ## Contact
 - Discord: [cr0wl3yy#7550](./)
