@@ -1,7 +1,7 @@
 <img src="https://github.com/cr0wl3yy/cr0wl3yy/blob/main/Webp.net-resizeimage.jpg" width="auto">
 
 
-## whoami? 🛑
+## whoami?
 I'm cr0wl3y. That's all. 
 
 ## Contact
