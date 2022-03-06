@@ -4,5 +4,5 @@ drink all the booze, hack all the things
 
 
 - Discord: [matossian#7550](./)
-- Tryhackme: [https://tryhackme.com/p/mat0ss1an](./)
+- Tryhackme: [https://tryhackme.com/p/matossian](./)
 
