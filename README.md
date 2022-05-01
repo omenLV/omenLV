@@ -1,3 +1,3 @@
 
-drink all the booze, hack all the things
+h3ll0 w0rld
 
