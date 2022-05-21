@@ -1,6 +1,6 @@
 ![alt text](https://github.com/rRam1rez/rRam1rez/blob/main/Ramirez%20(1).png)
 
-## Hello World
+## 'sup
 
 - I'm Ramirez, that's all about me.
 
