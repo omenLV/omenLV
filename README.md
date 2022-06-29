@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### Çağlar Bora who is bug in your life
+### Çağlar Bora a.k.a. buginyourlife
 ### interested in Computer Science ~ wanna be Security Researcher
 
 
