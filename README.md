@@ -5,9 +5,7 @@
 <br/>
 <br/>
 
-### interested in Computer Science
-
-### Also wanna be Security Researcher
+### interested in Computer Science ~ wanna be Security Researcher
 
 
 
