@@ -5,7 +5,6 @@
 <br/>
 <br/>
 
-### Çağlar Bora a.k.a. buginyourlife
 ### interested in Computer Science ~ wanna be Security Researcher
 
 
