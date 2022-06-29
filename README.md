@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### 16 y.o. high school student & caffeine addict - interested in Computer Science
+### interested in Computer Science
 
 ### Also wanna be Security Researcher
 
