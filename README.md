@@ -6,7 +6,7 @@
 <br/>
 
 ### OMEN
-### interested in Computer Science ~ wanna be Security Researcher
+### interested in Computer Science 
 
 
 
